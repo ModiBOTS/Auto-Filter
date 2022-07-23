@@ -17,7 +17,7 @@
       "inline"
     ],
     "website": "https://github.com/Aadhi000/Ajax",
-    "repository": "https://github.com/dOPEBots/Ajax",
+    "repository": "https://github.com/ModiBOTS/Ajax",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
